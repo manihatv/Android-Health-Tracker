@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="home_screen">Health Tracker</string>
+    <string name="read">My Health Data</string>
+    <string name="plot">Load Others Data</string>
+
+</resources>
